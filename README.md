@@ -1,1 +1,1 @@
-# Machine Learning_UW
+This is the repository for Machine Learning course.
